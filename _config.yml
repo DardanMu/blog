@@ -1,4 +1,4 @@
-name: blog site
-markdown: redcarpet
+name: Dardans Blog
+markdown: rdiscount
 pygments: true
 baseurl: /blog
