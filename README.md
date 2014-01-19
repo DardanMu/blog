@@ -1,2 +1,2 @@
-Blog created with [Jekyll](http://http://jekyllrb.com/) and hosted on github-pages
+Blog created with [Jekyll](http://jekyllrb.com/) and hosted on github-pages
 ====
